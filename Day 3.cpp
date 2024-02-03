@@ -8,7 +8,7 @@ int main()
 
     if(a % 2==0)
     {
-        cout<<"the entered number is even that is:";
+        cout<<"The entered number is even that is:";
         cout<<a<<endl;
     }
     else{
